@@ -1,6 +1,6 @@
 # Harshit Mishra
 
-**DevOps & Cloud Engineer** | AWS | Terraform | CI/CD | Docker | Kubernetes  
+**DevOps & Cloud Engineer** | Version Control | Docker | AWS | Ansible | Terraform | Jenkins | Linux | Bash | Kubernetes | Prometheus | Grafana |
 
 ---
 
@@ -23,21 +23,8 @@ I specialize in **AWS services, Infrastructure as Code (Terraform), CI/CD pipeli
 
 ---
 
-## Professional Projects
-1. **Automated AWS Deployments** – Deployed Node.js applications on EC2 using Terraform and Jenkins pipelines.  
-2. **Infrastructure as Code** – Built production-ready VPCs, subnets, security groups, and load balancers using Terraform.  
-3. **CI/CD Pipeline Implementation** – Automated build, test, and deployment workflows using GitHub Actions and Jenkins.  
-4. **Containerized Applications** – Packaged applications in Docker containers and managed deployments with proper monitoring.
-
----
-
-## GitHub Stats
-![Harshit Mishra GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=issues&count_private=true&theme=tokyonight)
-
----
-
 ## Contact
-- **Email:** [your email]  
+- **Email:** [harshitmishra200525@gmail.com]  
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
 - **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
 
