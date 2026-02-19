@@ -25,8 +25,8 @@ I specialize in **AWS services, Infrastructure as Code (Terraform), CI/CD pipeli
 
 ## Contact
 - **Email:** [harshitmishra200525@gmail.com]  
-- **LinkedIn:** [linkedin.com/in/harshit-mishra-50a664222](https://linkedin.com/in/your-linkedin)  
-- **GitHub:** [github.com/harshitmishra25](https://github.com/your-github-username)
+- **LinkedIn:** [linkedin.com/in/harshit-mishra-50a664222](https://linkedin.com/in/harshit-mishra-50a664222))  
+- **GitHub:** [github.com/harshitmishra25](https://github.com/harshitmishra25)
 
 ---
 
